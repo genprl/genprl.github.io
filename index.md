@@ -7,7 +7,7 @@ title: Workshop Overview
 layout: home
 ---
 
-GenPRL workshop unites two long-running workshop series of \emph{GenPlan} and \emph{PRL}.
+GenPRL workshop unites two long-running workshop series of GenPlan and PRL.
 The objective of this workshop is to bridge the gap between two highly active but largely parallel research communities - reinforcement learning (RL) and AI planning - to address the problem of generalizable and transferable learning for sequential decision-making problems. 
 
 

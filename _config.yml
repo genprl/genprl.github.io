@@ -21,7 +21,6 @@
 title: GenPRL Workshop
 email: genprl2024@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  GenPRL workshop unites two long-running workshop series of \emph{GenPlan} and \emph{PRL}. The objective of this workshop is to bridge the gap between two highly active but largely parallel research communities - reinforcement learning (RL) and AI planning - to address the problem of generalizable and transferable learning for sequential decision-making problems. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: rethinkmlpapers
@@ -54,7 +53,7 @@ header_pages:
 #   Some icons made by <a href="https://smashicons.com/" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>.
 
 # Displays a "last updated" date in the footer if set to "true"
-last_updated: true
+last_updated: false
 
 # Define collections (speakers, organizers, papers)
 # To turn off any of these collections, just set "output" to "false"
