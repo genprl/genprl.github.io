@@ -4,7 +4,7 @@ title: Call for papers
 permalink: /callforpapers/
 ---
 
-The workshop will focus on research related to all aspects of planning, learning, generalization, and transfer in sequential decision-making (SDM). This topic features technical problems that are of interest not only in multiple sub-fields of AI research (including reinforcement learning, automated planning, and learning for knowledge representation), but also in other fields, including formal methods and program synthesis. We will welcome submissions that address formal and empirical issues on topics such as:
+The workshop will focus on research related to all aspects of planning, learning, generalization, and transfer in sequential decision-making (SDM). This topic features technical problems that are of interest not only in multiple sub-fields of AI research (including reinforcement learning, automated planning, and learning for knowledge representation), but also in other fields, including formal methods and program synthesis. We welcome submissions that address formal and empirical issues on topics such as:
 
 
 
