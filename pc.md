@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Progrram Committee
+title: Program Committee
 permalink: /pc/
 ---
 
