@@ -4,4 +4,54 @@ title: Program Committee
 permalink: /pc/
 ---
 
-
+- [Haotian Fu](https://haotianfu.me/), Brown University, USA
+- [Naman Shah](https://www.namanshah.net/), Arizona State University, USA
+- [Jyothir S V](https://jyothirsv.github.io/), New York University, USA
+- [Timo Philipp Gros](https://mosi.uni-saarland.de/people/timo/), Saarland University, Germany
+- [Junkyu Lee](https://research.ibm.com/people/junkyu-lee), IBM Research, USA
+- [Sandhya Saisubramanian](https://www.sandhyasai.com/), Oregon State University, USA
+- [Samer B. Nashed](https://samernashed.github.io/), Université de Montréal, Canada
+- [Matan Sudry](https://scholar.google.com/citations?user=ZfJVqI8AAAAJ&hl=en), Technion - Israel Institute of Technology, Israel
+- [Nishanth Kumar](https://nishanthjkumar.com/), Massachusetts Institute of Technology, USA
+- [Steven James](https://sdjames.me/), University of the Witwatersrand, South Africa
+- [Anita De Mello Koch](http://irl.cs.brown.edu/people.php), Brown University, USA
+- [Dillon Chen](https://dillonzchen.github.io/), Australian National University, Australia
+- [Divanisha Pillay](https://www.linkedin.com/in/divanisha-patel-47a663136/), InstaDeep, South Africa
+- [Tal Daniel](https://taldatech.github.io/), Technion - Israel Institute of Technology, Israel
+- [Sergio Jimenez Celorrio](https://serjice.webs.upv.es/), Universitat Politècnica de València, Spain
+- [Javier Segovia-Aguas](https://jsego.github.io/), Universitat Pompeu Fabra, Spain
+- [Marcel Steinmetz](https://marcel-steinmetz.org/), University of Toulouse, France
+- [Marek Cygan](https://www.mimuw.edu.pl/~cygan/), University of Warsaw, Poland
+- [Eva Onaindia](https://grps.webs.upv.es/), Universitat Politècnica de València, Spain
+- [Roni Stern](https://ronistern.wixsite.com/home), Ben-Gurion University of the Negev, Israel
+- [Utkarsh Soni](https://scholar.google.com/citations?user=3Nqzr90AAAAJ&hl=en), Arizona State University, USA
+- [Sarath Sreedharan](http://sarathsreedharan.com/), Colorado State University, USA
+- [Shahaf Shperberg](https://shperb.github.io/), Ben-Gurion University of the Negev, Israel
+- [Pulkit Verma](https://pulkitverma.net/), Arizona State University, USA
+- [Sunandita Patra](https://sunanditapatra.wixsite.com/camp), J.P. Morgan AI Research, USA
+- [Akhil Bagaria](https://abagaria.github.io/), Brown University, USA
+- [Hector Palacios](https://hectorpalacios.net/), ServiceNow Research Group, Canada
+- [Shirin Sohrabi](https://research.ibm.com/people/shirin-sohrabi), IBM Research, USA
+- [Kimin Lee](https://scholar.google.co.kr/citations?user=92M8xv4AAAAJ&hl=en), Korea Advanced Institute of Science and Technology, South Korea
+- [Siddhant Bhambri](https://sbhambr1.github.io/), Arizona State University, USA
+- [Rushang Karia](https://rushangkaria.github.io/), Arizona State University, USA
+- [Shentao Yang](https://www.linkedin.com/in/shentaoyang/), University of Texas at Austin, USA
+- [Rohan Chitnis](https://rohanchitnis.com/), Meta Reality Labs, USA
+- [Blai Bonet](https://bonetblai.github.io/), Universidad Simón Bolívar, Venezuela
+- [Alper Ahmetoglu](https://alpera.xyz/), Brown University, USA
+- [Mudit Verma](https://famishedrover.github.io/), Arizona State University, USA
+- [Andrey Kolobov](https://www.microsoft.com/en-us/research/people/akolobov/), Microsoft Research Redmond, USA
+- [Sachin Grover](https://sachingrover211.github.io/), Arizona State University, USA
+- [Scott Sanner](https://www.mie.utoronto.ca/faculty_staff/sanner/), University of Toronto, Canada
+- [Reuth Mirsky](https://sites.google.com/site/dekelreuth/), Bar Ilan University, Israel
+- [Ev Zisselman](https://scholar.google.com/citations?user=wfLDM2oAAAAJ&hl=en), Technion - Israel Institute of Technology, Israel
+- [Ndivhuwo Makondo](https://research.ibm.com/people/ndivhuwo-makondo), IBM Research, South Africa
+- [Orr Krupnik](https://www.orrkrup.com/), Technion - Israel Institute of Technology, Israel
+- [Anders Jonsson](https://www.upf.edu/web/anders-jonsson), Pompeu Fabra University, Spain
+- [Vicenç Gómez](https://www.upf.edu/web/vgomez), Pompeu Fabra University, Spain
+- [Daniel Höller](https://fai.cs.uni-saarland.de/hoeller/), Universität des Saarlandes, Germany
+- [Cam Allen](https://camallen.net/), University of California, Berkeley, USA
+- [Yash S. Shukla](https://yshukla.com/), Tufts University, USA
+- [Geraud Nangue Tasse](https://geraudnt.github.io/), University of the Witwatersrand, South Africa
+- [Erez Karpas](https://karpase.net.technion.ac.il/), Technion - Israel Institute of Technology, Israel
+- [Christoph Schmidl](https://scholar.google.com/citations?user=OgGLzqsAAAAJ&hl=en), Radboud University, Netherlands

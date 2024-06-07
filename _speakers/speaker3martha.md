@@ -11,7 +11,7 @@ affil: University of Alberta
 affil_link: https://www.ualberta.ca/index.html
 
 # # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-# img: jane.jpg
+img: marthawhite.jpg
 
 # # (Optional) Secondary affiliation of the speaker
 # affil2: BuzzFizz Corp

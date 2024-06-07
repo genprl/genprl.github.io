@@ -11,7 +11,7 @@ affil: Brown University
 affil_link: https://www.brown.edu/
 
 # # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-# img: jane.jpg
+img: george.jpg
 
 # # (Optional) Secondary affiliation of the speaker
 # affil2: BuzzFizz Corp

@@ -11,7 +11,7 @@ affil: Massachusetts Institute of Technology (MIT)
 affil_link: https://web.mit.edu/
 
 # # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-# img: jane.jpg
+img: kaelbling.jpg
 
 # # (Optional) Secondary affiliation of the speaker
 # affil2: BuzzFizz Corp

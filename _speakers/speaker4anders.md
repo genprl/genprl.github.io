@@ -11,7 +11,7 @@ affil: Pompeu Fabra University (UPF)
 affil_link: https://www.upf.edu/en/
 
 # # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-# img: jane.jpg
+img: Anders-Jonsson.jpg
 
 # # (Optional) Secondary affiliation of the speaker
 # affil2: BuzzFizz Corp

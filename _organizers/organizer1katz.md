@@ -11,7 +11,8 @@ affil: IBM Research
 affil_link: https://research.ibm.com/
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: jane.jpg
+img: mic.jpg
+# img: mic_slack.png
 
 # Secondary affiliation
 affil2: 

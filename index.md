@@ -24,7 +24,7 @@ On one hand, recent advances in deep RL have led to data-driven methods that pro
 
 By bringing together the collective expertise and diverse perspectives from these communities, this workshop aims to generate the best ideas that integrate principles from planning and reinforcement learning (a) to learn generalizable representations of acquired knowledge, and (b) to effectively use them for knowledge transfer across problems. Unlocking these insights is crucial for developing adaptable and robust AI systems capable of solving complex SDM problems.
 
-Workshop related queries can be addressed to the Organizing Committee at: genprl2024\at\gmail.com.
+Workshop related queries can be addressed to the Organizing Committee at: [genprl2024\at\gmail.com](mailto:genprl2024@gmail.com).
 
 
 <!-- The theme is quite easy to use if you're familiar with Jekyll. The following collections are implemented: -->
