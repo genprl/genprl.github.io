@@ -7,13 +7,15 @@ title: Workshop Overview
 layout: home
 ---
 
-GenPRL workshop unites two long-running workshop series of GenPlan and PRL.
-The objective of this workshop is to bridge the gap between two highly active but largely parallel research communities - reinforcement learning (RL) and AI planning - to address the problem of generalizable and transferable learning for sequential decision-making problems. 
 
+![](assets/img/banner.jpg)
 
 <!-- Hi there! Here's the lazy grad student's template for workshop webpages. I put this together to help automate mundane tasks with conventional workshop webpages - curating lists of speakers and/or organizers, schedules, and submitted/accepted papers. Here's a completely unrelated picture adapted from "Machine Learning & Artificial Intelligence" by `mikemacmarketing`; licensed under CC BY 2.0: -->
 
-<!-- ![](assets/img/banner.jpg) -->
+
+
+GenPRL workshop unites two long-running workshop series of GenPlan and PRL.
+The objective of this workshop is to bridge the gap between two highly active but largely parallel research communities - reinforcement learning (RL) and AI planning - to address the problem of generalizable and transferable learning for sequential decision-making problems. 
 
 Humans are good at solving sequential decision-making (SDM) problems, generalizing from a few examples, and learning skills that can be transferred to solve unseen problems. However, SDM remains long-standing open problem in AI, where the 
 AI Planning and RL communities, while focusing on similar problems, do not consistently leverage each other's techniques, methodologies, or evaluations.
