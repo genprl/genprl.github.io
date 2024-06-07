@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_with_justified_text
 title: Call for papers
 permalink: /callforpapers/
 ---

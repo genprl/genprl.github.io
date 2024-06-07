@@ -3,16 +3,23 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 permalink: /
-title: Workshop Overview
+title: Home
 layout: home
 ---
 
+<center>
+<h3> NeurIPS 2024 Workshop on </h3>
+<h2> Generalization in Planning and Reinforcement Learning </h2>
+<h4>Vancouver Convention Center <br />
+Vancouver, Canada</h4>
+<h3>December 14-15, 2024</h3>
 
-![](assets/img/banner.jpg)
+<br/>
 
-<!-- Hi there! Here's the lazy grad student's template for workshop webpages. I put this together to help automate mundane tasks with conventional workshop webpages - curating lists of speakers and/or organizers, schedules, and submitted/accepted papers. Here's a completely unrelated picture adapted from "Machine Learning & Artificial Intelligence" by `mikemacmarketing`; licensed under CC BY 2.0: -->
+<img src="assets/img/banner.jpg" alt="GenPRL Workshop" width="100%"/>
+</center>
 
-
+<br/>
 
 GenPRL workshop unites two long-running workshop series of [GenPlan](https://www.genplan.ai/resources/) and [PRL](https://prl-theworkshop.github.io/).
 The objective of this workshop is to bridge the gap between two highly active but largely parallel research communities - reinforcement learning (RL) and AI planning - to address the problem of generalizable and transferable learning for sequential decision-making problems. 
@@ -24,7 +31,7 @@ On one hand, recent advances in deep RL have led to data-driven methods that pro
 
 By bringing together the collective expertise and diverse perspectives from these communities, this workshop aims to generate the best ideas that integrate principles from planning and reinforcement learning (a) to learn generalizable representations of acquired knowledge, and (b) to effectively use them for knowledge transfer across problems. Unlocking these insights is crucial for developing adaptable and robust AI systems capable of solving complex SDM problems.
 
-Workshop related queries can be addressed to the Organizing Committee at: [genprl2024\at\gmail.com](mailto:genprl2024@gmail.com).
+Workshop related queries can be addressed to the Organizing Committee at: [genprl2024@gmail.com](mailto:genprl2024@gmail.com).
 
 
 <!-- The theme is quite easy to use if you're familiar with Jekyll. The following collections are implemented: -->

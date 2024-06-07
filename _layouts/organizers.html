@@ -26,11 +26,13 @@ layout: default
 		        <td style="border: none;">
 		            <div class="people-name text-center">
 		            	<!-- organizer name (link to webpage if provided) -->
-		            	{% if organizer.webpage %}
+		            	<b>
+						{% if organizer.webpage %}
 		            		<a href="{{ organizer.webpage }}" target="_blank">{{ organizer.name }}</a>
 		            	{% else %}
 		            		{{ organizer.name }}
 		            	{% endif %}
+						</b>
 		                <br>
 		                <!-- organizer affiliation (if provided) -->
 		                {% if organizer.affil_link %}
